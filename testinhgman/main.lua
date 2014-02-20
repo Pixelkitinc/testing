@@ -11,4 +11,5 @@ end
 
 timer1 = timer.performWithDelay( 1000, listener, 0 )  -- wait 2 seconds
 
+--Just testing
 -- sometime later...
